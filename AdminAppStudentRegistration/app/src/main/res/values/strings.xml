@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AdminAppStudentRegistration</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="yeararry">
+        <item>All</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+    <string-array name="brancharray">
+        <item>All</item>
+        <item>CSE</item>
+        <item>CIVIL</item>
+        <item>MECH</item>
+        <item>ELECTRICAL</item>
+        <item>ENTC</item>
+        <item>IT</item>
+        <item>INSTRU</item>
+    </string-array>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "170354758833",
+    "project_id": "registrationapp-8ee84",
+    "storage_bucket": "registrationapp-8ee84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170354758833:android:59dc69e25e674c9d3cbe90",
+        "android_client_info": {
+          "package_name": "com.example.adminappstudentregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170354758833-u48apv4mmuqki319h09nm9nhnn04qd4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hmo2BH7BY_s7-VtIaBQqf70B5SdBFrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170354758833-u48apv4mmuqki319h09nm9nhnn04qd4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170354758833:android:68e51b2a5f98a1013cbe90",
+        "android_client_info": {
+          "package_name": "com.example.studentregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170354758833-u48apv4mmuqki319h09nm9nhnn04qd4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hmo2BH7BY_s7-VtIaBQqf70B5SdBFrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170354758833-u48apv4mmuqki319h09nm9nhnn04qd4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

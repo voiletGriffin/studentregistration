@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743765487179",
+    "project_id": "adminappstudentregistration",
+    "storage_bucket": "adminappstudentregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743765487179:android:8e8603c27d33bfc87ca7ce",
+        "android_client_info": {
+          "package_name": "com.example.adminappstudentregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743765487179-vmsv59ej8049k1mq6ogdqifcem4o4j4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4517-lovKEhppRSSWr4OtUUBcTbOB-sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743765487179-vmsv59ej8049k1mq6ogdqifcem4o4j4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

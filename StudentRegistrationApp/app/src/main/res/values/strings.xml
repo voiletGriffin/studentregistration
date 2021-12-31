@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StudentRegistrationApp</string>
+
+    <string-array name="yeararry">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+
+    <string-array name="brancharray">
+        <item>CSE</item>
+        <item>CIVIL</item>
+        <item>MECH</item>
+        <item>ELECTRICAL</item>
+        <item>ENTC</item>
+        <item>IT</item>
+        <item>INSTRU</item>
+    </string-array>
+</resources>
